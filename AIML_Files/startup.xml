@@ -1,0 +1,40 @@
+<aiml version="1.0">
+
+    <!-- This category works with the standard AIML Set -->
+    <category>
+        <pattern>LOAD AIML</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            <learn>AIML_Files/Training_Patterns/hello.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/dictionary.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/sports.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/ercent.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/atomic.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/department.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/botmaster.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/brain.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/connect.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/disconnect.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/dont.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/errors.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/gender.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/geography.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/gossip.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/inactivity.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/inventions.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/knowledge.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/numbers.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/personality.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/pickup.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/robot.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/sports.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/srai.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/suffixes.aiml</learn>  
+            <learn>AIML_Files/Training_Patterns/that.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/turing.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/yesno.aiml</learn>
+            <learn>AIML_Files/Training_Patterns/computer.aiml</learn>
+        </template>
+    </category>
+
+</aiml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="author" content="Dr. Wallace"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern>How you doing?</pattern>
+<template>
+    <li>I am very well. You tell me!</li>
+    <li>I am awesome. What about you?</li>
+    <li>I am happy. What about you?</li>
+</template>
+</category>
+
+
+</aiml>
