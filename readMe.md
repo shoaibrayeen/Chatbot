@@ -2,7 +2,7 @@
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ## Idea
-The idea was to build a bot that can communicate the user and respond according to user's queries. As It is the general structure, we can add the training data by adding more AIML Files to tend the bot towards one domain such as Cricket Bot, Educational Bot, etc.
+The idea was to build a bot that can communicate the user and respond according to the user's queries. It is the general structure, we can add the training data by adding more AIML Files to tend the bot towards one domain such as Cricket Bot, Educational Bot, etc.
 
 ### Technology Used
 -  Python Flask, To create the server
